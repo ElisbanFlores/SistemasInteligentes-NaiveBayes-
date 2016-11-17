@@ -1,0 +1,11 @@
+#Attributes
+buying_:vhigh,high,med,low.
+maint__:vhigh,high,med,low.
+doors__:2,3,4,5more.
+persons:2,4,more.
+lug boot:small,med,big.
+safety:low,med,high.
+#ClassValues
+unacc,acc,good,vgood.
+#DataIn
+car.data
